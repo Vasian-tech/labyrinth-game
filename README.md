@@ -1,1 +1,1 @@
-First create the table in your database by using the script provided in the tableCreation.sql file. After that make sure to properly connect your IDE with the database. Then you can proceed with running the project.
+First create the table in your database by using the script provided in the tableCreation.sql file. After that make sure to properly connect your IDE with the database. Then you can proceed with executing the project by running the class Loja.java.
